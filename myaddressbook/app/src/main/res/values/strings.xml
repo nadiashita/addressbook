@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">myaddressbook</string>
-    <string name="hello_blank_fragment">Hello fragment</string>
-    <string name="emptyImage">https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhmhxiJi_anonymous-profile-grey-person-sticker-glitch-empty-profile%2F&amp;psig=AOvVaw1j4AVK0UPmJPkRWa5Untwa&amp;ust=1644505455872000&amp;source=imagesamp;cd=vfeamp;ved=0CAsQjRxqFwoTCNDn3bDy8vUCFQAAAAAdAAAAABAM</string>
-    <string name="apikeymap" translatable="false">AIzaSyDSErsvAqOdgGFRsiwVr9-0lOKWnIYlqSs</string>
-</resources>
